@@ -1773,10 +1773,10 @@ net.ipv6.conf.lo.disable_ipv6 = 0" >>/etc/sysctl.d/99-sysctl.conf
 menu() {
 	clear
 	echo "#############################################################"
-	echo -e "#                     ${RED}Xray戴总安装脚本${PLAIN}                      #"
-	echo -e "# ${GREEN}作者${PLAIN}: 戴总(DaiLjj) & MisakaNo                           #"
-	echo -e "# ${GREEN}博客${PLAIN}: 开心每一天                            #"
-	echo -e "# ${GREEN}TG群${PLAIN}: 晶晶❥                         #"
+	echo -e "#                     ${RED}Xray戴总安装脚本${PLAIN}          #"
+	echo -e "# ${GREEN}作者${PLAIN}: 戴总(DaiLjj) & MisakaNo              #"
+	echo -e "# ${GREEN}博客${PLAIN}: 开心每一天 2022/12/11                #"
+	echo -e "# ${GREEN}TG群${PLAIN}: 小虎牙❥   学习用不止步               #"
 	echo "#############################################################"
 	echo -e "  "
 	echo -e "  ${GREEN}1.${PLAIN}   安装Xray-VMESS${PLAIN}${RED}(不推荐)${PLAIN}"
